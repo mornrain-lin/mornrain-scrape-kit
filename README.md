@@ -1,3 +1,5 @@
+![morn-scrape-kit](assets/preview.png)
+
 # MornRain Scrape Kit
 
 合规的 HTML 解析与元数据提取库。SEO 元信息、RSS/Atom 流式解析、链接内外链分析、HTML 白名单清洗、robots.txt 判定与礼貌限速。
